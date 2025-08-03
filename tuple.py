@@ -3,8 +3,6 @@ a=(4,8,6,5,4)
 print(a)
 print(type(a))
 
-
-#create simple tuple with multiple string values
 a=("hello","python","tuple")
 print(a)
 print(type(a))
